@@ -1,24 +1,37 @@
+# Haider Ali Jaffery
 
-Building Proovant — an AI-assisted smart contract security review agent focused on finding vulnerabilities, challenging candidate findings, and validating them with executable Foundry PoCs.
+Founder of [Proovant](https://www.proovant.com) — building an AI-assisted smart contract security review engine.
 
-I work at the intersection of Web3 security, product development, and security operations.
+My background is in Web3 security business development. I've spent years working with security teams and protocol founders, and I'm now bringing that experience into building a security product.
 
-### What I'm building
+I'm focused on making smart contract security reviews more reproducible, actionable, and useful for protocol teams.
 
-**Proovant**
-- Specialised agents for parallel smart contract analysis
-- Independent skeptic review to challenge potential findings
-- Foundry-based proof-of-concept validation
-- Human review before findings are delivered
+## What I'm Building
 
-The goal: make security findings more reproducible, actionable, and useful to protocol teams.
+### [Proovant](https://www.proovant.com)
 
-### Security work
+An AI-assisted smart contract security review engine built around a simple principle:
 
-Proovant reviews have helped projects identify confirmed issues and address them before or after deployment.
+**Find it. Challenge it. Prove it.**
 
-[Visit Proovant](https://www.proovant.com)
+- Specialised agents for parallel security analysis
+- Independent validation to challenge potential findings
+- Foundry-based proof-of-concept testing
+- Human review as part of the report delivery process
 
-### Connect
-- X: [@Proovant_ai](https://x.com/Proovant_ai)
-- Website: [proovant.com](https://www.proovant.com)
+The goal is not to generate more findings. It's to make security findings that teams can understand, reproduce, and fix.
+
+## Security Work
+
+Proovant has worked with protocol teams to identify security issues and support remediation.
+
+Explore the public work:
+
+- [Security Reviews & Case Studies](https://github.com/Proovant/proovant-security-reviews)
+- [Review Methodology](https://github.com/Proovant/proovant-methodology)
+
+## Connect
+
+- [Proovant Website](https://www.proovant.com)
+- [X / Twitter](https://x.com/Proovant_ai)
+- [Proovant GitHub](https://github.com/Proovant)
